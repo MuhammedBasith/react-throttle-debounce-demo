@@ -24,7 +24,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-throttle-debounce-demo.git
+   git clone https://github.com/MuhammedBasith/react-throttle-debounce-demo.git
    cd react-throttle-debounce-demo
    ```
 
